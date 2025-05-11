@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Fproj"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"/Users/ammar/Downloads/javafx-sdk-24.0.1/lib/*.jar"
+		]
+	}
+}
